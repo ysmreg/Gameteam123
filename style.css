@@ -22,3 +22,13 @@ footer {
     background: linear-gradient(-135deg, #E4A972, #9941D8);
     padding:40px;
 }
+#nig{
+    padding:10px;
+}
+h3 {
+    display:inline-block;
+    display:inline-flex;
+}
+img {
+    display:inline-flex;
+}
